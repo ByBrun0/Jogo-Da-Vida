@@ -37,7 +37,9 @@ foi possivel pensar na lógica e efetuá-la de maneira tranquila. Entretanto, ho
 dificuldade quanto a manipulação de arquivos, o que foi facilmente contornado com a ajuda do professor.
 
 ### Testes Efetuados 
+Entrada:
 
+Saída:
 
 
 
@@ -46,12 +48,7 @@ dificuldade quanto a manipulação de arquivos, o que foi facilmente contornado 
 Insira no arquivo "input.mps" a matriz, a qual deve contar com o tamanho, o qual
 deve ter um valor minimo de 5, em uma linha e com os números '0' e '1' separados por espaço e
 divididos de uma forma em que haja uma fração de 2 para 1 na quantidade dos '0' e '1', sendo que 
-o '1' apareça com menos frequência. Há um exemplo a seguir para demonstrar:
+o '1' apareça com menos frequência. Siga o exemplo de formatação sugerido:
 
-5
-0 0 0 1 0
-1 0 0 0 1
-0 1 1 0 0
-0 0 0 1 1
-1 0 0 0 0
+!
 
