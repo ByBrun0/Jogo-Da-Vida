@@ -38,10 +38,16 @@ dificuldade quanto a manipulação de arquivos, o que foi facilmente contornado 
 
 ### Testes Efetuados 
 Entrada:
+
+
 ![Formatação](https://github.com/ByBrun0/Jogo-Da-Vida/assets/143546997/cbedeeda-5cde-44f5-bef4-15d40587c2f2)
 
 
+
+
 Saída:
+
+
 ![Resultado](https://github.com/ByBrun0/Jogo-Da-Vida/assets/143546997/b348bc27-4b8f-4189-a419-b357aee8012b)
 
 
