@@ -38,8 +38,11 @@ dificuldade quanto a manipulação de arquivos, o que foi facilmente contornado 
 
 ### Testes Efetuados 
 Entrada:
+![Formatação](https://github.com/ByBrun0/Jogo-Da-Vida/assets/143546997/cbedeeda-5cde-44f5-bef4-15d40587c2f2)
+
 
 Saída:
+![Resultado](https://github.com/ByBrun0/Jogo-Da-Vida/assets/143546997/b348bc27-4b8f-4189-a419-b357aee8012b)
 
 
 
@@ -50,5 +53,6 @@ deve ter um valor minimo de 5, em uma linha e com os números '0' e '1' separado
 divididos de uma forma em que haja uma fração de 2 para 1 na quantidade dos '0' e '1', sendo que 
 o '1' apareça com menos frequência. Siga o exemplo de formatação sugerido:
 
-!
+![Formatação](https://github.com/ByBrun0/Jogo-Da-Vida/assets/143546997/0acb8e11-7147-46d4-8bdb-6906b7b80e5b)
+
 
